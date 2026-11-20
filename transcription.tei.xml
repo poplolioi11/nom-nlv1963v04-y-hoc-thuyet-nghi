@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>醫學說疑卷四</title>
+        <title type="alternate">Y học thuyết nghi, quyển 4</title>
+        <author>裴叔貞（Bùi Thúc Trinh，研究者據其他著作及序文歸屬）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>越南，原抄地未由本卷內題確定</settlement>
+            <repository>越南國家圖書館</repository>
+            <collection>漢喃特藏</collection>
+            <idno>R.1963</idno>
+            <altIdentifier>
+              <idno>NLV1963V04</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>越南漢文醫學師生問答卷四，含顛狂及其他歷史病證。全卷為館方原圖第122至127幅。</p>
+              <ref target="https://lib.nomfoundation.org/collection/1/volume/574/">館方書目</ref>
+              <ref target="https://lib.nomfoundation.org/collection/1/volume/574/">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>十九世紀末抄本，館目載同慶元年；作者自序及抄本紀年見研究。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/122" xml:id="f01">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-122.jpg" />
+    </surface>
+    <surface n="2" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/123" xml:id="f02">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-123.jpg" />
+    </surface>
+    <surface n="3" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/124" xml:id="f03">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-124.jpg" />
+    </surface>
+    <surface n="4" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/125" xml:id="f04">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-125.jpg" />
+    </surface>
+    <surface n="5" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/126" xml:id="f05">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-126.jpg" />
+    </surface>
+    <surface n="6" corresp="https://lib.nomfoundation.org/collection/1/volume/574/page/127" xml:id="f06">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0416/large/nlvnpf-0416-127.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f01-r-c01">
+              <seg type="diplomatic-text">醫學疑說卷之四</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-r-c02">
+              <seg type="diplomatic-text">問中暑言三伏炎蒸尤可畏三伏之義可得聞乎曰伏匿也藏潛也</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-r-c03">
+              <seg type="diplomatic-text">三伏初伏中伏末伏也以六月火旺金畏於火故庚日必伏幼學尋</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-r-c04">
+              <seg type="diplomatic-text">源云四時相代惟以相生獨秋金代夏火金必畏之故金逢庚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-r-c05">
+              <seg type="diplomatic-text">必伏藏也三台鰲頭云自夏至後三庚為初伏四庚為中伏立</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-r-c06">
+              <seg type="diplomatic-text">秋後逢庚為末伏若五庚在立秋前不為末伏須用見秋方</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-r-c07">
+              <seg type="diplomatic-text">是此定三伏之成法也</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-r-c08">
+              <seg type="diplomatic-text">問血在人身亦屬水也而其色獨赤何也曰血者水也人身中涕唾</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">百廿一</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">122</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f01-l-c01">
+              <seg type="diplomatic-text">津液痰汗便溺皆水也獨血之水隨相火而行故其色獨赤</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-l-c02">
+              <seg type="diplomatic-text">問諸虛門只是中和效更長句註有云少年慾火正熾尤宜戒補</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-l-c03">
+              <seg type="diplomatic-text">其說果有當乎曰按少年戒補亦謂無病而貪者補若有是</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-l-c04">
+              <seg type="diplomatic-text">病而服是藥尤為對症有何可戒經曰邪之所湊其正必虛不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-l-c05">
+              <seg type="diplomatic-text">補其虛安問其餘豈可槪以戒補乎卽果慾火正熾尤宜戒補</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-l-c06">
+              <seg type="diplomatic-text">虛可知不補其陰又何言治如此亦可以戒之乎是可知此說殊</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-l-c07">
+              <seg type="diplomatic-text">問眼門所謂近視畏虛遠視陽其說何如曰從前諸家所論皆然</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-l-c08">
+              <seg type="diplomatic-text">醫學亦述古云耳然酌之於理殊未安當今以醫貫之意辨之</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c08">
+              <label>左頁第6欄殊下小字</label>
+              <seg type="diplomatic-text" rend="unknown">為過防</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c08">
+              <label>左頁第3欄者後淡筆</label>
+              <seg type="diplomatic-text" rend="unknown">近「2」形</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。 左面：左第7欄視下字暫讀畏。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>醫學疑說</quote>
+              <note type="editorial">館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>鰲頭</quote>
+              <note type="editorial">館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f02-r-c01">
+              <seg type="diplomatic-text">夫能近視不能遠視乃陽不足而陰有餘病於水也能遠視而不</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-r-c02">
+              <seg type="diplomatic-text">能近視乃陰不足而陽有餘病於火也蓋陽不足則雲羅陰翳</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-r-c03">
+              <seg type="diplomatic-text">腎之陰水僅足以回光自照而不能發越於外故只能近視也法</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-r-c04">
+              <seg type="diplomatic-text">當益火之源以消陰翳陰不足則陽火熾盛火之性炎其光華發</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-r-c05">
+              <seg type="diplomatic-text">越散亂而不能收歛挽回故只遠視也法當壯水之主以鎮陽光現醫</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-r-c06">
+              <seg type="diplomatic-text">貫襲諸家之論在理深為至當所當的從又如註中所引諸</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-r-c07">
+              <seg type="diplomatic-text">方宜倒換用之為當不然則實之虚之損不足而益有餘反成</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-r-c08">
+              <seg type="diplomatic-text">問痛風門詳分上下與週身句註言結陽肢腫其說可得聞歟曰</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+              <label>右第7欄成後小字</label>
+              <seg type="diplomatic-text" rend="unknown">其殄耳</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">一廿二</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">123</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">內經云結陽者腫謂手足六陽其脈行四于肢若有邪結則四</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">肢之脈壅滯故發腫</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">問瘧有一日一發有間數日一發其故何如曰內經論瘧篇言之詳矣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">今摘其要云勝復之氣會遇之時有多少也陰氣多而陽氣少</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">則發日遠陽氣多而陰氣少則發日近此勝復相搏盛衰之節也</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">吳鶴皋註云瘧或一日發或間數日發者人身有慓悍之氣行於</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">大經之外邪氣感人藏於分肉不與大經之氣會遇則不發邪氣</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">出於肉分流於大經與大經之氣會遇邪正交爭不能相容則病作</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c08">
+              <label>左第1欄四後符號</label>
+              <seg type="diplomatic-text" rend="unknown">近「2」形</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第123幅。第5欄「挽」、第7欄「其殄耳」暫讀。 左面：左第1欄大字依圖為「行四于肢」，「四」右側有疑似倒序記號，將原位與讀序疑問分開。 左面：左第6欄慓暫讀；左第8欄末通下幅右1欄。</ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>行四于肢</quote>
+              <note type="editorial">左第1欄大字依圖為「行四于肢」，「四」右側有疑似倒序記號，將原位與讀序疑問分開。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>四</quote>
+              <note type="editorial">左第1欄大字依圖為「行四于肢」，「四」右側有疑似倒序記號，將原位與讀序疑問分開。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">作矣其勝復之氣會遇之時有多少者人身之氣表為陽而裏為</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">陰邪氣之入於陰分者居多而在於陽分居少則邪之入也深其</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">為道也遠故間日發謂之遠也邪氣之在於陽分者居多而入</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">於陰分者居少則邪之入也淺而其為道也近故一日發謂之近也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">此勝復相薄盛衰之節也</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06">
+              <seg type="diplomatic-text">問黃疸門渴多喘滿治之難句註言凡疸以十八日為期何卻如</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07">
+              <seg type="diplomatic-text">此限定日期歟曰黃者土之色疸為土病土於四時每季寄旺十</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08">
+              <seg type="diplomatic-text">八日故以十八日為期也</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">一廿三</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">124</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">問消渴門保肺滋腎句註言有形之水兌也坤也無形之水氣也坎</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">也乾也夫兌坎為水容或有說不知氣與乾坤而卻以水言又有又</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">形無形之別抑何所取曰兌澤者陰水也形也一陰上徹於二陽之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">上以形普施而為萬物資生之利澤此兌之所以為有形之水</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">也坤屬土象地以純陰立于兌卦之先</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">自其六成之質兌泉出地中則坤之為水信矣故與兌而皆以有</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">形也坎水者陽水也氣也一陽陷於二陰之中水氣潛行地中而為</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08">
+              <seg type="diplomatic-text">萬物受生之根本此坎之所以為無形之水也氣為水之母大凡</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c08">
+              <label>左5欄先後小字</label>
+              <seg type="diplomatic-text" rend="unknown">此以與下乾卦皆據文王後天八卦而言後天卦序乾坎艮震巽離坤兌是也</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c08">
+              <label>左8欄受後並寫（右列）</label>
+              <seg type="diplomatic-text" rend="unknown">命</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c08">
+              <label>左8欄受後並寫（左列）</label>
+              <seg type="diplomatic-text" rend="unknown">生</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第124幅。承上幅尾，「瘧」的問答到右5欄完。 左面：左2欄末「又有又」依形暫留。左5欄小字右列後左列。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">氣病皆小水不利則氣之為水可知乾屬金象天以純陽立</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">于坎卦之先已肇一水之體驗水之根于陽則乾之為水</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">信矣故與坎而皆以為無形也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">問便血須先分內外句引經云結陰便血一陰結一升二陰結二升</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">三陰結三升何乃如此限定歟曰王太僕云結陰六陰脈也其脈</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">行於腹裏而主陰血若有邪結則血受病故便血一升旣便一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">升則邪結當若不解而再結則為邪盛故便血二升若又不</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08">
+              <seg type="diplomatic-text">解而為三結則其邪益盛故便血三升</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+              <label>右2欄陽下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">本質陰而根陽乾純陽故云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+              <label>右7欄當後小字</label>
+              <seg type="diplomatic-text" rend="unknown">解</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">一廿四</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">125</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">問喘門已發破邪痰火疏句註引內經夜行喘出於腎淫氣病</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">肺諸說考之淫氣所傳與原病之臟或生或尅不同何也曰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">此說原出內經經脈別論其末句言渡水跌仆喘出於腎與骨</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">而無淫氣損肝四字吳鶴皋云腎受氣於亥</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">子故夜行則勞骨而損陰喘出於腎淫氣有餘而偏勝為</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">患也病肺腎少陰之脈上入肺中喘氣上逆肺苦之也傷筋又</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">屬於肝故驚恐喘出於肝淫氣害脾木傳土也驚則神越</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">氣亂於胸中故喘出於肺心藏神神亂則邪入故淫氣傷於心</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+              <label>左4欄四字後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">或者醫書因前傳例增此一語內經本無</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第125幅。右7欄「解」屬附寫，不併入大字。 左面：左1欄破、疏暫讀。左4欄小字先右後左。</ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">濕氣傷於腎跌仆傷於骨故喘出焉再考之王太僕註亦略相同</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">問關乃小便不通格乃吐逆而小註於關則言塞而出不入於格則言</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">塞而不出若似相反何也曰此出入當作上下看入有下之意出有</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">上之意言關乃陽在上而不下以寒在胸中閉塞其陽不能下入</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">而與陰榮陰無陽則凝故關閉而小便不通格乃陰在下而不上</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">以熱在下焦閉塞其陰不能上出而與陽榮故格逆而嘔吐不納</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">觀一卷臟腑論言關格其義可見</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">問顛狂門所言重陰重陽何所指歟曰指脈也難經十二經曰重</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">一廿五</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">126</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">陽者狂重陰者顛張世賢註云尺寸俱陽謂之重陽尺寸皆陰謂</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">之重陰又五十九難註云狂病屬陽顛病屬陰陰陽二部狂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">則皆見陽脈顛則皆見陰脈也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">問痿病註引經云謂諸痿皆生於肺熱夫痿乃筋脈骨肉之病</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">乃不歸於肝脾等臟而只責於肺一臟何歟曰景岳云肺為五</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">臟華蓋朝百脈而主氣以行榮衛治陰陽故五臟之痿皆因</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">於肺肺氣熱則五臟之陰皆不足此痿癖之生於肺也</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">問痿病門言肺傷木旺肢體痿句註言陽明者諸筋宗之會也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c08">
+              <label>左2欄二部前第一陰後小字</label>
+              <seg type="diplomatic-text" rend="unknown">尺也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c08">
+              <label>左2欄二部前陽後小字</label>
+              <seg type="diplomatic-text" rend="unknown">寸也</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第126幅。「問顛狂門」一問始右8欄，續左1至3欄，左4欄另起「問痿病」。右8欄「十二經」依墨跡暫讀。 左面：左2欄大字兩陰相連，中未加標點。左7欄「癖」待覆核，候「躄」。</ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="question-and-answer-manuscript">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">夫筋乃厥陰肝之所主也何卻屬之陽明他如曰宗筋曰機關抑</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">何所指曰厥陰脈雖主筋然陽明者五臟六腑之海主潤宗筋</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">宗筋謂陰毛中横骨也上下之堅筋也上絡胸腹下貫髖尻</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">又經腹背上頭項故云宗筋主束骨而利機關腰者身之大</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">關筋所以司屈伸故曰機關</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">問痿病門言天產作陽何謂也曰丹溪云天產作陽厚味宜戒醫</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">學蓋本諸此考之禮即牲曰醴又之羮而煎鹽之尚貴天產也</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">又曰鼎俎奇而籩豆偶陰陽之義也陳氏曰鼎俎之實以天產</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+              <label>右5欄關下旁小字</label>
+              <seg type="diplomatic-text" rend="unknown">節</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+              <label>右外緣舊葉碼</label>
+              <seg type="diplomatic-text" rend="unknown">一廿六</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+              <label>右頁近摺口下方鉛筆號</label>
+              <seg type="diplomatic-text" rend="unknown">127</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">為主而天產屬陽故其數奇籩豆之實以地產為主故其數偶</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">夫鼎俎所以盛肉也負經以鹽醴鼎俎實為天產可知厚味卽</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">天產也天產為陽故宜戒厚味蓋痿由肺熱葉焦乃陰虛也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">治痿獨陽明故天產之厚味助陽動火所以宜戒也</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">問勞瘵症陰陽傳變最無常句註言男子自腎傳心肺肝脾女</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">子自心傳肺肝脾腎何不同也曰傳者傳其所勝也勞瘵乃精</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">血虛損之病男以精為主女以血腎主精心主血故男自腎女自心</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+              <label>左1欄故前旁小字</label>
+              <seg type="diplomatic-text" rend="unknown">而地產屬陰</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+              <label>左4欄獨後旁小字</label>
+              <seg type="diplomatic-text" rend="unknown">取</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+              <label>左4欄明後並列小字（右列）</label>
+              <seg type="diplomatic-text" rend="unknown">胃</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+              <label>左4欄明後並列小字（左列）</label>
+              <seg type="diplomatic-text" rend="unknown">也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+              <label>左7欄血後旁小字</label>
+              <seg type="diplomatic-text" rend="unknown">為主</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館方原第127幅。右3欄堅、髖，右7欄醴暫讀。 左面：左第2欄負、醴暫讀。左7欄後留白，原第128幅右起「醫學說疑卷之五」。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左第2欄負、醴暫讀。左7欄後留白，原第128幅右起「醫學說疑卷之五」。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
