@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '醫學說疑卷四（十九世紀末抄本，越南國家圖書館 R.1963） / Y học thuyết nghi, quyển 4 [Questions on
   historical medicine, volume four]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

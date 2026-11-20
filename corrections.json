@@ -1,0 +1,548 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 32,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "7d05cc75aa0d35f69a0debe924e5c221652247cffb0df795a31fa904ed2db9db",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/122"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "7d05cc75aa0d35f69a0debe924e5c221652247cffb0df795a31fa904ed2db9db",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/122"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 6,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左頁第6欄殊下小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "7d05cc75aa0d35f69a0debe924e5c221652247cffb0df795a31fa904ed2db9db",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/122"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左頁第3欄者後淡筆",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "7d05cc75aa0d35f69a0debe924e5c221652247cffb0df795a31fa904ed2db9db",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/122"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右第7欄成後小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "3fa33c3ccf54bf5f9e37153fc3c57a3d425e1bdc4774dab5ae9b084d0e95f97b",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/123"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "3fa33c3ccf54bf5f9e37153fc3c57a3d425e1bdc4774dab5ae9b084d0e95f97b",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/123"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "3fa33c3ccf54bf5f9e37153fc3c57a3d425e1bdc4774dab5ae9b084d0e95f97b",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/123"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 1,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左第1欄四後符號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "3fa33c3ccf54bf5f9e37153fc3c57a3d425e1bdc4774dab5ae9b084d0e95f97b",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/123"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "8cd19b17f9b695e61bd557c3062d2dbae9df287407b2c38dd5499371ffa0712f",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/124"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "8cd19b17f9b695e61bd557c3062d2dbae9df287407b2c38dd5499371ffa0712f",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/124"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左5欄先後小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "8cd19b17f9b695e61bd557c3062d2dbae9df287407b2c38dd5499371ffa0712f",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/124"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 2,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右2欄陽下雙行小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "5f05e414343f42951a3d7340e5112d6fb6c4be67b63de81399b35edf43535638",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/125"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右7欄當後小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "5f05e414343f42951a3d7340e5112d6fb6c4be67b63de81399b35edf43535638",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/125"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "5f05e414343f42951a3d7340e5112d6fb6c4be67b63de81399b35edf43535638",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/125"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "5f05e414343f42951a3d7340e5112d6fb6c4be67b63de81399b35edf43535638",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/125"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左4欄四字後雙行小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "5f05e414343f42951a3d7340e5112d6fb6c4be67b63de81399b35edf43535638",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/125"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "指脈",
+      "after": "指脉",
+      "reason": "根據月旁及右邊永形改錄為脉。",
+      "source_bbox": [
+        1028,
+        1025,
+        1119,
+        1207
+      ],
+      "offset": [
+        15,
+        17
+      ],
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "陽脈",
+      "after": "陽脉",
+      "reason": "根據月旁及右邊永形改錄為脉。",
+      "source_bbox": [
+        676,
+        405,
+        783,
+        530
+      ],
+      "offset": [
+        3,
+        5
+      ],
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "陰脈",
+      "after": "陰脉",
+      "reason": "根據月旁及右邊永形改錄為脉。",
+      "source_bbox": [
+        693,
+        786,
+        789,
+        915
+      ],
+      "offset": [
+        9,
+        11
+      ],
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 8,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "無獨立點號欄",
+      "after": "按圖定位兩個朱短點",
+      "reason": "朱字形跡在大字近側，分開編碼。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "無獨立點號欄",
+      "after": "按圖定位兩個朱短點",
+      "reason": "朱字形跡在大字近側，分開編碼。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左2欄二部前第一陰後小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "左2欄二部前陽後小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/126"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 5,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右5欄關下旁小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右外緣舊葉碼",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 8",
+      "after": "右頁近摺口下方鉛筆號",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 7",
+      "after": "左1欄故前旁小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 7",
+      "after": "左4欄獨後旁小字",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 7",
+      "after": "左4欄明後並列小字（右列）",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 7",
+      "after": "左4欄明後並列小字（左列）",
+      "reason": "依原有欄位分記細字、葉碼或鉛筆號。",
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas": "https://lib.nomfoundation.org/collection/1/volume/574/page/127"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/122",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/122",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/122",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/123",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/123",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "7d05cc75aa0d35f69a0debe924e5c221652247cffb0df795a31fa904ed2db9db",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/122",
+      "reading": "醫學疑說卷之四",
+      "status": "依原圖留讀",
+      "reason": "卷題與書衣字序不同，兩層各依原圖。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 8,
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/126",
+      "reading": "難經十二經",
+      "status": "依原圖留讀",
+      "reason": "照本件手寫形與字序。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "f2d867d42c3add923563d128559fab2ffe5f8459dfd277d0892ef7fa9e449eaa",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/126",
+      "reading": "痿癖",
+      "status": "依原圖留讀",
+      "reason": "後字疒旁及辟形可辨。"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "1272c98b9f9e1c7d3978c5f2ab46e6fbe64cbbe835331347e88c8c74ec02ebf5",
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/574/page/127",
+      "reading": "女自心",
+      "status": "依原圖留讀",
+      "reason": "左頁後留空，原第128幅另開卷五。"
+    }
+  ]
+}

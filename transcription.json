@@ -18,11 +18,11 @@
     "manifest_url": null,
     "manifest_sha256": null,
     "record_id": "NLV1963V04",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "Handwritten volume 4, official viewer images 122–127",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫學說疑卷四（十九世紀末抄本，越南國家圖書館 R.1963） / Y học thuyết nghi, quyển 4 [Questions on historical medicine, volume four]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -47,7 +47,7 @@
       "height": 1689,
       "page_html_sha256": "6279171805d3c3efdf5ed2888796bedc8f7a6255cd7b5a83bc6dd7d3a329b005",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -82,14 +82,14 @@
               "type": "copy-annotation",
               "location": "右外緣舊葉碼",
               "text": "百廿一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁近摺口下方鉛筆號",
               "text": "122",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -127,14 +127,14 @@
               "type": "copy-annotation",
               "location": "左頁第6欄殊下小字",
               "text": "為過防",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "左頁第3欄者後淡筆",
               "text": "近「2」形",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             }
           ]
@@ -154,6 +154,15 @@
           "context": "鰲頭",
           "candidates": [],
           "note": "館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "畏",
+          "candidates": [
+            "畏"
+          ],
+          "note": "筆畫相連待按他卷手書重核。"
         }
       ],
       "observations": "右面：館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。 左面：左第7欄視下字暫讀畏。"
@@ -176,7 +185,7 @@
       "height": 1689,
       "page_html_sha256": "1cca89ec0ee0a64f41d9140fee839bc22714dc68cd627d7f036c9f4d2779f708",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -211,21 +220,21 @@
               "type": "copy-annotation",
               "location": "右第7欄成後小字",
               "text": "其殄耳",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右外緣舊葉碼",
               "text": "一廿二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁近摺口下方鉛筆號",
               "text": "123",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -263,7 +272,7 @@
               "type": "copy-annotation",
               "location": "左第1欄四後符號",
               "text": "近「2」形",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             }
           ]
@@ -305,7 +314,7 @@
       "height": 1689,
       "page_html_sha256": "6b223a279500fd4761709cd0943da8bb77e3fc0b2519358886f28277132f81e3",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -340,14 +349,14 @@
               "type": "copy-annotation",
               "location": "右外緣舊葉碼",
               "text": "一廿三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁近摺口下方鉛筆號",
               "text": "124",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -385,7 +394,7 @@
               "type": "copy-annotation",
               "location": "左5欄先後小字",
               "text": "此以與下乾卦皆據文王後天八卦而言後天卦序乾坎艮震巽離坤兌是也",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
@@ -426,7 +435,7 @@
       "height": 1689,
       "page_html_sha256": "82c42f664da7fb380038c6760c373be1ab8f3f943c226f5323174854a9ec8f8e",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -461,28 +470,28 @@
               "type": "printed-small-text",
               "location": "右2欄陽下雙行小字",
               "text": "本質陰而根陽乾純陽故云",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右7欄當後小字",
               "text": "解",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右外緣舊葉碼",
               "text": "一廿四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁近摺口下方鉛筆號",
               "text": "125",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -520,7 +529,7 @@
               "type": "printed-small-text",
               "location": "左4欄四字後雙行小字",
               "text": "或者醫書因前傳例增此一語內經本無",
-              "column_anchor": 8,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -547,7 +556,7 @@
       "height": 1689,
       "page_html_sha256": "e902c40e9124f1bd7e7019fd52d4a4c2d7bed50d7115d0d901dbaf18616979e3",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -574,7 +583,19 @@
               "text": "觀一卷臟腑論言關格其義可見"
             },
             {
-              "text": "問顛狂門所言重陰重陽何所指歟曰指脈也難經十二經曰重"
+              "text": "問顛狂門所言重陰重陽何所指歟曰指脉也難經十二經曰重",
+              "marks": [
+                {
+                  "after": 14,
+                  "mark": "、",
+                  "color": "red"
+                },
+                {
+                  "after": 18,
+                  "mark": "、",
+                  "color": "red"
+                }
+              ]
             }
           ],
           "extras": [
@@ -582,14 +603,14 @@
               "type": "printed-small-text",
               "location": "右外緣舊葉碼",
               "text": "一廿五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁近摺口下方鉛筆號",
               "text": "126",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -604,7 +625,19 @@
               "text": "之重陰又五十九難註云狂病屬陽顛病屬陰陰陽二部狂"
             },
             {
-              "text": "則皆見陽脈顛則皆見陰脈也"
+              "text": "則皆見陽脉顛則皆見陰脉也",
+              "marks": [
+                {
+                  "after": 5,
+                  "mark": "、",
+                  "color": "red"
+                },
+                {
+                  "after": 12,
+                  "mark": "、",
+                  "color": "red"
+                }
+              ]
             },
             {
               "text": "問痿病註引經云謂諸痿皆生於肺熱夫痿乃筋脈骨肉之病"
@@ -627,14 +660,14 @@
               "type": "printed-small-text",
               "location": "左2欄二部前第一陰後小字",
               "text": "尺也",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左2欄二部前陽後小字",
               "text": "寸也",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -661,7 +694,7 @@
       "height": 1689,
       "page_html_sha256": "ebdef5a81282ae1213829592551eab4841f4066c2ea5bebbe6deefea578fc043",
       "content_role": "question-and-answer-manuscript",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -696,21 +729,21 @@
               "type": "printed-small-text",
               "location": "右5欄關下旁小字",
               "text": "節",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右外緣舊葉碼",
               "text": "一廿六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁近摺口下方鉛筆號",
               "text": "127",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -745,28 +778,28 @@
               "type": "printed-small-text",
               "location": "左1欄故前旁小字",
               "text": "而地產屬陰",
-              "column_anchor": 7,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左4欄獨後旁小字",
               "text": "取",
-              "column_anchor": 7,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左4欄明後並列小字（右列）",
               "text": "胃",
-              "column_anchor": 7,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左4欄明後並列小字（左列）",
               "text": "也",
-              "column_anchor": 7,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
@@ -786,6 +819,68 @@
           "context": "",
           "candidates": [],
           "note": "左第2欄負、醴暫讀。左7欄後留白，原第128幅右起「醫學說疑卷之五」。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "即牲",
+          "candidates": [
+            "即牲",
+            "郊牲"
+          ],
+          "note": "上位形旁可候郊。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "醴",
+          "candidates": [
+            "醴",
+            "醯"
+          ],
+          "note": "右部下有皿形，保留候讀。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "負經",
+          "candidates": [
+            "負經",
+            "見經"
+          ],
+          "note": "下方末捺可辨，字形未定。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "醴",
+          "candidates": [
+            "醴",
+            "醯"
+          ],
+          "note": "末部形同本幅右頁同詞。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "勞瘵",
+          "candidates": [
+            "勞瘵",
+            "痨瘵",
+            "癆瘵"
+          ],
+          "note": "原字外緣似疒，依原讀留候。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "勞瘵",
+          "candidates": [
+            "勞瘵",
+            "痨瘵",
+            "癆瘵"
+          ],
+          "note": "此處重見同形。"
         }
       ],
       "observations": "右面：館方原第127幅。右3欄堅、髖，右7欄醴暫讀。 左面：左第2欄負、醴暫讀。左7欄後留白，原第128幅右起「醫學說疑卷之五」。"

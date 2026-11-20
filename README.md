@@ -4,11 +4,11 @@
 
 Volume four of Y học thuyết nghi is a Literary Chinese medical question-and-answer text attributed to the Vietnamese physician Bùi Thúc Trinh. It includes historical discussions of dian-kuang, wasting, and other conditions. The National Library of Vietnam manuscript R.1963 provides the source. The collection title is 醫學說疑 and the internal heading of volume four reads 醫學疑說卷之四.
 
-## V0.1.0
+## V0.2.0
 
-轉錄本卷全部六幅雙面原圖，館方第122至127幅，從卷內提問至末欄。顛狂一問位於原第126幅右第8欄至左第3欄。AI 輔助逐欄初錄，保留手寫疑字與附旁細字。
+轉錄本卷全部六幅雙面原圖，館方第122至127幅，從卷內提問至末欄。顛狂一問位於原第126幅右第8欄至左第3欄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 32 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The edition covers all six openings of volume four, numbered 122–127 in the source viewer. The discussion of dian-kuang extends from right column 8 to left column 3 of source image 126. AI-assisted initial transcription with unresolved manuscript readings and small annotations marked.
+The edition covers all six openings of volume four, numbered 122–127 in the source viewer. The discussion of dian-kuang extends from right column 8 to left column 3 of source image 126. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 32 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

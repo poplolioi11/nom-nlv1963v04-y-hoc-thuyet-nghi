@@ -4,10 +4,10 @@
   "source": "https://lib.nomfoundation.org/collection/1/volume/574/",
   "source_image_viewer": "https://lib.nomfoundation.org/collection/1/volume/574/page/122",
   "source_rights_policy": "https://www.nomfoundation.org/About-the-Foundation/Terms-of-use?uiLang=en",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 6,
   "content_scan_count": 6,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

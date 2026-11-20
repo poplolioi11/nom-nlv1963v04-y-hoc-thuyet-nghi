@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -99,11 +99,11 @@
             <ab type="column" n="8" xml:id="f01-r-c08">
               <seg type="diplomatic-text">問血在人身亦屬水也而其色獨赤何也曰血者水也人身中涕唾</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">百廿一</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">122</seg>
             </ab>
@@ -133,11 +133,11 @@
             <ab type="column" n="8" xml:id="f01-l-c08">
               <seg type="diplomatic-text">醫學亦述古云耳然酌之於理殊未安當今以醫貫之意辨之</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c06">
               <label>左頁第6欄殊下小字</label>
               <seg type="diplomatic-text" rend="unknown">為過防</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-l-c03">
               <label>左頁第3欄者後淡筆</label>
               <seg type="diplomatic-text" rend="unknown">近「2」形</seg>
             </ab>
@@ -151,6 +151,11 @@
             <ab type="transcription-issue" n="right:5">
               <quote>鰲頭</quote>
               <note type="editorial">館方原第122幅。內題作「醫學疑說」，封面見原第1幅作「醫學說疑」。右第5欄「鰲頭」暫讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>畏</quote>
+              <seg type="candidate">畏</seg>
+              <note type="editorial">筆畫相連待按他卷手書重核。</note>
             </ab>
           </div>
         </div>
@@ -181,15 +186,15 @@
             <ab type="column" n="8" xml:id="f02-r-c08">
               <seg type="diplomatic-text">問痛風門詳分上下與週身句註言結陽肢腫其說可得聞歟曰</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c07">
               <label>右第7欄成後小字</label>
               <seg type="diplomatic-text" rend="unknown">其殄耳</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一廿二</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">123</seg>
             </ab>
@@ -219,7 +224,7 @@
             <ab type="column" n="8" xml:id="f02-l-c08">
               <seg type="diplomatic-text">出於肉分流於大經與大經之氣會遇邪正交爭不能相容則病作</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c01">
               <label>左第1欄四後符號</label>
               <seg type="diplomatic-text" rend="unknown">近「2」形</seg>
             </ab>
@@ -263,11 +268,11 @@
             <ab type="column" n="8" xml:id="f03-r-c08">
               <seg type="diplomatic-text">八日故以十八日為期也</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一廿三</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">124</seg>
             </ab>
@@ -297,7 +302,7 @@
             <ab type="column" n="8" xml:id="f03-l-c08">
               <seg type="diplomatic-text">萬物受生之根本此坎之所以為無形之水也氣為水之母大凡</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c05">
               <label>左5欄先後小字</label>
               <seg type="diplomatic-text" rend="unknown">此以與下乾卦皆據文王後天八卦而言後天卦序乾坎艮震巽離坤兌是也</seg>
             </ab>
@@ -341,19 +346,19 @@
             <ab type="column" n="8" xml:id="f04-r-c08">
               <seg type="diplomatic-text">解而為三結則其邪益盛故便血三升</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c02">
               <label>右2欄陽下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">本質陰而根陽乾純陽故云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c07">
               <label>右7欄當後小字</label>
               <seg type="diplomatic-text" rend="unknown">解</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一廿四</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">125</seg>
             </ab>
@@ -383,7 +388,7 @@
             <ab type="column" n="8" xml:id="f04-l-c08">
               <seg type="diplomatic-text">氣亂於胸中故喘出於肺心藏神神亂則邪入故淫氣傷於心</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c04">
               <label>左4欄四字後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">或者醫書因前傳例增此一語內經本無</seg>
             </ab>
@@ -417,13 +422,15 @@
               <seg type="diplomatic-text">觀一卷臟腑論言關格其義可見</seg>
             </ab>
             <ab type="column" n="8" xml:id="f05-r-c08">
-              <seg type="diplomatic-text">問顛狂門所言重陰重陽何所指歟曰指脈也難經十二經曰重</seg>
+              <seg type="diplomatic-text">問顛狂門所言重陰重陽何所指歟曰指脉也難經十二經曰重</seg>
+              <note type="original-mark" n="14" rend="red">、</note>
+              <note type="original-mark" n="18" rend="red">、</note>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一廿五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">126</seg>
             </ab>
@@ -436,7 +443,9 @@
               <seg type="diplomatic-text">之重陰又五十九難註云狂病屬陽顛病屬陰陰陽二部狂</seg>
             </ab>
             <ab type="column" n="3" xml:id="f05-l-c03">
-              <seg type="diplomatic-text">則皆見陽脈顛則皆見陰脈也</seg>
+              <seg type="diplomatic-text">則皆見陽脉顛則皆見陰脉也</seg>
+              <note type="original-mark" n="5" rend="red">、</note>
+              <note type="original-mark" n="12" rend="red">、</note>
             </ab>
             <ab type="column" n="4" xml:id="f05-l-c04">
               <seg type="diplomatic-text">問痿病註引經云謂諸痿皆生於肺熱夫痿乃筋脈骨肉之病</seg>
@@ -453,11 +462,11 @@
             <ab type="column" n="8" xml:id="f05-l-c08">
               <seg type="diplomatic-text">問痿病門言肺傷木旺肢體痿句註言陽明者諸筋宗之會也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c02">
               <label>左2欄二部前第一陰後小字</label>
               <seg type="diplomatic-text" rend="unknown">尺也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c02">
               <label>左2欄二部前陽後小字</label>
               <seg type="diplomatic-text" rend="unknown">寸也</seg>
             </ab>
@@ -493,15 +502,15 @@
             <ab type="column" n="8" xml:id="f06-r-c08">
               <seg type="diplomatic-text">又曰鼎俎奇而籩豆偶陰陽之義也陳氏曰鼎俎之實以天產</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c05">
               <label>右5欄關下旁小字</label>
               <seg type="diplomatic-text" rend="unknown">節</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右外緣舊葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一廿六</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁近摺口下方鉛筆號</label>
               <seg type="diplomatic-text" rend="unknown">127</seg>
             </ab>
@@ -528,19 +537,19 @@
             <ab type="column" n="7" xml:id="f06-l-c07">
               <seg type="diplomatic-text">血虛損之病男以精為主女以血腎主精心主血故男自腎女自心</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c01">
               <label>左1欄故前旁小字</label>
               <seg type="diplomatic-text" rend="unknown">而地產屬陰</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c04">
               <label>左4欄獨後旁小字</label>
               <seg type="diplomatic-text" rend="unknown">取</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c04">
               <label>左4欄明後並列小字（右列）</label>
               <seg type="diplomatic-text" rend="unknown">胃</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c07">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c04">
               <label>左4欄明後並列小字（左列）</label>
               <seg type="diplomatic-text" rend="unknown">也</seg>
             </ab>
@@ -554,6 +563,44 @@
             <ab type="transcription-issue" n="left:None">
               <quote />
               <note type="editorial">左第2欄負、醴暫讀。左7欄後留白，原第128幅右起「醫學說疑卷之五」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>即牲</quote>
+              <seg type="candidate">即牲</seg>
+              <seg type="candidate">郊牲</seg>
+              <note type="editorial">上位形旁可候郊。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>醴</quote>
+              <seg type="candidate">醴</seg>
+              <seg type="candidate">醯</seg>
+              <note type="editorial">右部下有皿形，保留候讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>負經</quote>
+              <seg type="candidate">負經</seg>
+              <seg type="candidate">見經</seg>
+              <note type="editorial">下方末捺可辨，字形未定。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>醴</quote>
+              <seg type="candidate">醴</seg>
+              <seg type="candidate">醯</seg>
+              <note type="editorial">末部形同本幅右頁同詞。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>勞瘵</quote>
+              <seg type="candidate">勞瘵</seg>
+              <seg type="candidate">痨瘵</seg>
+              <seg type="candidate">癆瘵</seg>
+              <note type="editorial">原字外緣似疒，依原讀留候。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>勞瘵</quote>
+              <seg type="candidate">勞瘵</seg>
+              <seg type="candidate">痨瘵</seg>
+              <seg type="candidate">癆瘵</seg>
+              <note type="editorial">此處重見同形。</note>
             </ab>
           </div>
         </div>
